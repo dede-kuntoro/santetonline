@@ -323,7 +323,7 @@ python /data/data/com.termux/files/GreenReaper/DarkFly
 
 # Bot referral Tools 
 
-22) git clone https://github.com/dede-kuntoro/bot
+23) git clone https://github.com/dede-kuntoro/bot
 echo -e "${y} Installer bot..."
 echo -e "${y} cd bot"
 echo -e "${y} php r.php"
@@ -332,7 +332,7 @@ python /data/data/com.termux/files/bot/r.php
 
 ;;
 
-23) memilih untuk move on
+24) memilih untuk move on
 
 ;;
 
