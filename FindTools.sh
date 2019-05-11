@@ -1,5 +1,5 @@
 #!/bin/bash
-#root->#
+#Mr.Vampire>#
 
 # Variables
 b='\033[1m'
@@ -44,45 +44,45 @@ lagi=1
 while [ $lagi -lt 20 ];
 do
 echo ""
-echo -e "1.  Nmap${enda}";
-echo -e "2.  Admin-finder${endc}";
-echo -e "3.  Metasploit${endc}";
-echo -e "4.  RED_HAWK${endc}";
-echo -e "5   Lazymux${endc}";
-echo -e "6.  Tools-X${endc}"; 
-echo -e "7.  Inurlbr${endc}";
-echo -e "8.  sqliv${endc}";
-echo -e "9.  D-tect${endc}";
-echo -e "10. recon${endc}";
+echo -e "1.  Santet Nmap${enda}";
+echo -e "2.  Santet Admin-finder${endc}";
+echo -e "3.  Santet Metasploit${endc}";
+echo -e "4.  Santet RED_HAWK${endc}";
+echo -e "5   Santet Lazymux${endc}";
+echo -e "6.  Santet Tools-X${endc}"; 
+echo -e "7.  Santet Inurlbr${endc}";
+echo -e "8.  Santet sqliv${endc}";
+echo -e "9.  Santet D-tect${endc}";
+echo -e "10. Santet recon${endc}";
 echo -e "11. ubuntu${endc}";
 echo -e "12. oh my zsh${endc}";
-echo -e "13. ko-dork${endc}";
-echo -e "14. fsociety${endc}";
-echo -e "15. websploit${endc}";
-echo -e "16. A-Rat${endec}";
+echo -e "13. Santet ko-dork${endc}";
+echo -e "14. Santet fsociety${endc}";
+echo -e "15. Santet websploit${endc}";
+echo -e "16. Santet A-Rat${endec}";
 echo -e "17. Nethunter-In-Termux${endc}";
 echo -e "18. hash-generator${endc}";
 echo -e "19. GreenReaper${endc}";
-echo -e "20. HackBox${endc}";
-echo -e "21. D3C${endc}";
-echo -e "22. DarkFly-Tool${endc}";
-echo -e "23. Exit${endc}";
+echo -e "20. Santet HackBox${endc}";
+echo -e "21. Santet D3C${endc}";
+echo -e "22. Santet DarkFly-Tool${endc}";
+echo -e "23 . Exit${endc}";
 echo ""
-echo -e "╭─Pilih Nomor>#" |lolcat
+echo -e "╭─Pilih nomor Santet>#" |lolcat
 read -p "╰─#" pil;
 
-# Santet Nmap
+# Nmap
 
 case $pil in
 1) echo -e  "${y} {1} Masukkan Web${endc}:"
-echo "Mods Dede Kuntoro >#" |lolcat
+echo "by: Mr.Vampire >#" |lolcat
 read web
 nmap $web
 echo
 
 ;;
 
-# Santet admin-finder
+# admin-finder
 
 2) git clone  https://github.com/the-c0d3r/admin-finder.git
 echo -e "${y} cara menggunakan admin finder"
@@ -94,7 +94,7 @@ echo
 
 ;;
 
-# Santet metasploit
+# metasploit
 
 3) git clone https://github.com/Junior60/Metasploit
 echo -e "${y} Installer Metasploit..."
@@ -105,7 +105,7 @@ bash /data/data/com.termux/files/metasploit/metasploit.sh
 
 ;;
 
-# Santet RED_HAWK
+#RED_HAWK
 
 4) git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo -e "${y} Installer RED_HAWK..."
@@ -116,7 +116,7 @@ php /data/data/com.termux/files/RED_HAWK/RED_HAWK.php
 
 ;;
 
-# Santet Lazymux
+#Lazymux
 
 5) git clone https://github.com/Gameye98/Lazymux
 echo -e "${y} Installer Lazymux..."
@@ -127,7 +127,7 @@ python /data/data/com.termux/files/Lazymux/python2 lazymux.py
 
 ;;
 
-# Santet Tools-X
+#Tools-X
 
 6) git clone https://github.com/Rajkumrdusad/Tool-X
 echo -e "${y} Installer Tool-X..."
@@ -138,7 +138,7 @@ bash /data/data/com.termux/files/Tool-X/sh install.aex
 
 ;;
 
-# Santet Inurlbr
+#Inurlbr
 
 7) git clone https://github.com/googleinurl/SCANNER-INURLBR
 echo -e "${y} Installer INURLBR..."
@@ -149,7 +149,7 @@ php /data/data/com.termux/files/inurlbr/php inurlbr.php
 
 ;;
 
-# Santet sqliv
+#sqliv
 
 8) git clone https://github.com/the-robot/sqliv
 echo -e "${y} Installer sqliv..."
@@ -160,7 +160,7 @@ python /data/data/com.termux/files/sqliv/sudo python2 setup.py -i
 
 ;;
 
-# Santet D-tect
+#D-tect
 
 9) git clone https://github.com/shawarkhanethicalhacker/D-TECT
 echo -e "${y} Installer D-tect..."
@@ -171,7 +171,7 @@ python /data/data/com.termux/files/d-tect/python d-tect.py
 
 ;;
 
-# Santet recon
+#recon
 
 10) git clone https://github.com/s0md3v/ReconDog
 echo -e "${y} Installer recon..."
@@ -182,7 +182,7 @@ python /data/data/com.termux/files/ReconDog/python2 dog.py
 
 ;;
 
-# Santet ubuntu
+#ubuntu
 
 11) git clone https://github.com/Neo-Oli/termux-ubuntu
 echo -e "${y} Installer ubuntu..."
@@ -204,7 +204,7 @@ bash /data/data/com.termux/files/termux-ohmyzsh/sh install.sh
 
 ;;
 
-# Santet ko-dork
+#ko-dork
 
 13) git clone https://github.com/CiKu370/ko-dork
 echo -e "${y} Installer ko-dork..."
@@ -215,7 +215,7 @@ python /data/data/com.termux/files/ko-dork/python2 dork.py
 
 ;;
 
-# Santet fsociety
+#fsociety
 
 14) git clone https://github.com/Manisso/fsociety
 echo -e "${y} Installer fsociety..."
@@ -226,7 +226,7 @@ python /data/data/com.termux/files/fsociety/python2 fsociety.py
 
 ;;
 
-# Santet websploit
+#websploit
 
 15) apt update && apt uphrade
 pkg install git
@@ -239,7 +239,7 @@ python /data/data/com.termux/files/websploit/python websploit.py
 
 ;;
 
-# Santet A-Rat
+#A-Rat
 
 16) apt update && apt upgrade
 pkg install git
@@ -252,7 +252,7 @@ python /data/data/com.termux/files/A-Rat/python a-rat.py
 
 ;;
 
-# Santet nethunter
+#nethunter
 
 17) git clone https://github.com/Hax4us/Nethunter-In-Termux
 echo -e "${y} Installer Nethunter-In-Termux..."
@@ -263,7 +263,7 @@ bash /data/data/com.termux/files/Nethunter-In-Termux/./kalinethunter
 
 ;;
 
-# Santet hashgenerator
+#hashgenerator
 
 18) git clone https://github.com/ciku370/hash-generator
 echo -e "${y} Installer hash-generator..."
@@ -274,7 +274,7 @@ python /data/data/com.termux/files/hash-generator/python hasgen.py
 
 ;;
 
-#Santet GreenReaper
+#GreenReaper
 
 19) git clone https://github.com/Amriez/GreenReaper
 echo -e "${y} Installer GreenReaper..."
@@ -285,7 +285,7 @@ python /data/data/com.termux/files/GreenReaper/python2 greenreaper.py
 
 ;;
 
-# Santet HackBox
+# HackBox
 
 20) git clone https://github.com/samhaxr/hackbox
 echo -e "${y} Installer HackBox..."
@@ -296,7 +296,7 @@ python /data/data/com.termux/files/hackbox/python hackbox.py
 
 ;;
 
-# Santet D3C
+# D3C
 
 21) git clone https://github.com/G05TM4N/D3C
 echo -e "${y} Installer D3C..."
@@ -307,7 +307,7 @@ python /data/data/com.termux/files/D3C/sh d3c.sh
 
 ;;
 
-# Santet DarkFly Tools 
+# DarkFly Tools 
 
 22) git clone https://github.com/G05TM4N/DarkFly-Tool
 echo -e "${y} Installer D3C..."
@@ -316,13 +316,11 @@ echo -e "${y} python2 install.py"
 echo -e "${y} cd"
 echo -e "${y} DarkFly"
 cd /data/data/com.termux/files/GreenReaper/
-python /data/data/com.termux/files/GreenReaper/DarkFly 
+python /data/data/com.termux/files/DarkFly-Tool/DarkFly 
 
 ;;
 
-# Exit 
-
-24) memilih untuk move on
+23) exit
 
 ;;
 
