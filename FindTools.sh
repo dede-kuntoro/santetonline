@@ -66,8 +66,7 @@ echo -e "19. GreenReaper${endc}";
 echo -e "20. HackBox${endc}";
 echo -e "21. D3C${endc}";
 echo -e "22. DarkFly-Tool${endc}";
-echo -e "23. bot${endc}";
-echo -e "24. Exit${endc}";
+echo -e "23. Exit${endc}";
 echo ""
 echo -e "╭─Pilih Nomor>#" |lolcat
 read -p "╰─#" pil;
