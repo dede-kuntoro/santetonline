@@ -1,5 +1,5 @@
 #!/bin/bash
-#Mr.Vampire>#
+#Mods Dede Kuntoro>#
 
 # Variables
 b='\033[1m'
