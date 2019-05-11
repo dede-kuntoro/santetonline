@@ -1,30 +1,13 @@
 
-$$$$$$$\   $$$$$$\  $$$$$$$\  $$\   $$\        $$$$$$\  $$\   $$\ $$$$$$$\  $$\       $$$$$$\  $$$$$$\ $$$$$$$$\ 
-$$  __$$\ $$  __$$\ $$  __$$\ $$ | $$  |      $$ ___$$\ $$ |  $$ |$$  __$$\ $$ |     $$  __$$\ \_$$  _|\__$$  __|
-$$ |  $$ |$$ /  $$ |$$ |  $$ |$$ |$$  /       \_/   $$ |\$$\ $$  |$$ |  $$ |$$ |     $$ /  $$ |  $$ |     $$ |   
-$$ |  $$ |$$$$$$$$ |$$$$$$$  |$$$$$  /          $$$$$ /  \$$$$  / $$$$$$$  |$$ |     $$ |  $$ |  $$ |     $$ |   
-$$ |  $$ |$$  __$$ |$$  __$$< $$  $$<           \___$$\  $$  $$<  $$  ____/ $$ |     $$ |  $$ |  $$ |     $$ |   
-$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |\$$\        $$\   $$ |$$  /\$$\ $$ |      $$ |     $$ |  $$ |  $$ |     $$ |   
-$$$$$$$  |$$ |  $$ |$$ |  $$ |$$ | \$$\       \$$$$$$  |$$ /  $$ |$$ |      $$$$$$$$\ $$$$$$  |$$$$$$\    $$ |   
-\_______/ \__|  \__|\__|  \__|\__|  \__|       \______/ \__|  \__|\__|      \________|\______/ \______|   \__|   
+# SANTET ONLINE TOOLS
 
 
-____ _   _ ___  ____ ____ 
-|     \_/  |__] |___ |__/ 
-|___   |   |__] |___ |  \ 
-                           
-
-# FINDTOOLS
- apt update && apt upgrade -y
- apt install python
- apt install python2
- apt install lolcat 
- apt install git
- apt install bash
- git clone https://github.com/GH05TM4N/FindTools
- cd FindTools
- bash FindTools.sh
-
-# DAN INSTALL TOOLS YANG LAINNYA :V
-# OKE BOSQE
-
+apt update && apt upgrade -y
+apt install python
+apt install python2
+apt install lolcat 
+apt install git
+apt install bash
+git clone https://github.com/dede-kuntoro/santetonline
+cd santetonline
+bash FindTools.sh
